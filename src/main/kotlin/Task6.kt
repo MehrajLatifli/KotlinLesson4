@@ -4,7 +4,7 @@ fun main() {
     var numberarray = arrayOf<Double>(2.5, -5.2, 3.5, -4.1, 0.0)
 
 
-    for ((index, item) in numberarray.withIndex()) {
+    for ((index, item2) in numberarray.withIndex()) {
 
         for ((index2, item2) in numberarray.withIndex()) {
 

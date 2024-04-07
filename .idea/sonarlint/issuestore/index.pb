@@ -40,3 +40,7 @@ $.idea/codeStyles/codeStyleConfig.xml,d\d\dd7b3350c29c49497756c7f32c69a3bed18b1
 Q.idea/sonarlint/securityhotspotstore/a/d/ade2a0388432642526d2987fd8bc66fa382d4efd,6\4\643c8cf5930526fd1197a7a9f419584af33bc450
 L
 .idea/codeStyles/Project.xml,6\e\6ecd6000a7b6f4a2884412ff19f74193ed089648
+H
+src/main/kotlin/Task7.kt,e\c\ec5f56f37544d32ecf87568436ed596f10ac86d1
+H
+src/main/kotlin/Task8.kt,2\a\2a036d3da340ddc4456b409ffc28a2c15fd8c33a
